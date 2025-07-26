@@ -1,0 +1,6 @@
+
+ROUGE Sonuçları:
+rouge1: 0.3149
+rouge2: 0.1311
+rougeL: 0.2351
+rougeLsum: 0.2860
